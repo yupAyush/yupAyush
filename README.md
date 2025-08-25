@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">mostly interested in Deeplearning ,full stack devlopment and cybersecurity</h3>
 
-- 🔭 I’m currently working on Employee task Management system [Employee task management](https://github.com/yupAyush/Employee-Task-Management-Dashboard)
+
 
 - 🌱 I’m currently learning **Next js ,React,Node and express**
 
