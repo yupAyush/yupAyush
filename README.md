@@ -70,8 +70,32 @@
 
 ###
 
+<div data-importer="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yupAyush&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="yupAyush's github stats" />
+  <img width="12" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupAyush&layout=compact&theme=radical&hide_border=true" height="165" alt="yupAyush's top languages" />
+</div>
+
+###
+
+<div data-importer="streak" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yupAyush&theme=radical&hide_border=true" alt="yupAyush's github streak" />
+</div>
+
+###
+
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<div data-importer="pacman-graph" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yupAyush/yupAyush/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yupAyush/yupAyush/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yupAyush/yupAyush/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
 ###
