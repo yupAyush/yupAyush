@@ -64,12 +64,6 @@
 
 
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yupAyush&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="yupAyush's github stats" />
-  <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yupAyush&layout=compact&theme=radical&hide_border=true" height="165" alt="yupAyush's top languages" />
-</div>
-
 ###
 
 <div data-importer="streak" align="center">
